@@ -30,6 +30,8 @@
 If you have any comments, feel free to drop a note over at: 
 => mailto:think.years@gmail.com
 
+List of gemini and gopher links I've accrued over time:
+=> gemini://gmi.si3t.ch/echo/links.gmi Links 04/23/2022
 
 At some point I'll end up writing about or mentioning any of the below things: 
 	

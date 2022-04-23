@@ -1,0 +1,40 @@
+### Gemini links
+### tags: gemini,gopher,links
+### 2022-04-23
+
+Quick gemini links repo - meant for me to keep a consistent list of links for when I hop around between different machines, but maybe you'll find them useful too. 
+Caveat - this list includes gopher pages as well, since two of my main gemini browsers (castor and bombadillo) supports them.
+
+#### Gemini
+=> gemini://gemini.cyberbot.space/smolzine/ Smolzine
+=> gemini://gemi.dev/cgi-bin/chilly.cgi Weather services on gemini
+=> gemini://gemini.locrian.zone/library/index.gmi Locrian library
+=> gemini://calcuode.com/gmisub-aggregate.gmi gmisub aggregator
+=> gemini://rawtext.club/~sloum/spacewalk.gmi Spacewalk gemini aggregator
+=> gemini://carcosa.net Carcosa net
+=> gemini://dioskouroi.xyz/top Gemini hackernews 
+=> gemini://gemini.circumlunar.space/ Circumlunar space
+=> gemini://gemini.circumlunar.space/~solderpunk/ Solderpunk gemlog
+=> gemini://geminiquickst.art/ Gemini quickstart
+=> gemini://geminispace.info/ Gemini space hosts and pages
+=> gemini://gmi.si3t.ch My gemini capsule host
+=> gemini://si3t.ch/log/2020-12-31.gmi How to start a gemini capsule on si3t.ch
+=> gemini://gmi.si3t.ch/echo/ This capsule
+=> gemini://gmi.si3t.ch/www-gem/ What was wrong gemlog
+=> gemini://rawtext.club/ Rawtext club gemini
+=> gemini://rawtext.club:1965/~mieum/gemlog.gmi Mieum gemlog
+=> gemini://rawtext.club/~sloum/geminews/npr/ Gemini NPR 
+=> gemini://review.treeblue.space/ Treeblue curated feeds from gemini
+=> gemini://transjovian.org Transjovian council wiki
+=> gemini://republic.circumlunar.space:1965/zine/index.gmi Official zine of circumlunar space
+=> gemini://medusae.space/ Curated list of gemini capsules
+
+#### Gopher
+=> gopher://colorfield.space/ Colorfield space, experimental public bbs/phlog on pi zero 
+=> gopher://cosmic.voyage/ Comic voyage, tilde community around science fiction universe
+=> gopher://gopherpedia.com/ Gopher to wikipedia
+=> gopher://i-logout.cz/1/bongusta Phlog aggregator
+=> gopher://rawtext.club/ Rawtext club
+=> gopher://rawtext.club/1/~cmccabe/pubnixhist/ Pubnix history
+=> gopher://tilde.institute/ Tilde institue pubnix, phlogs
+=> gopher://zaibatsu.circumlunar.space/ Zaibatsu circumlunar space host and phlogs
