@@ -1,0 +1,22 @@
+# Radio free gemini
+### Welcoming myself to gemini
+### tags: gemlog,life,writing,first
+### 2021-07-18
+  
+  
+It's a bit telling that the first thing I decided to do after really taking the time to learn about gemini (on the scale of whatever the extreme end of the casual might be) was to write out a bash script to format a pseudo index and gemlog generator, full on with a half hearted attempt at some templates. This really would not have been my reaction at least a couple of years ago - automation of these sorts of geekery would have been far beyond my interest. 
+
+What I find curious is that this recent change of behavior only occurred as a side effect of studying biology - which, by the way, was primarily a bench-and-paper-notes oriented, Charles Darwin didn't need any stinking R packages type of deal until extremely recently. Is this a change of attitude brought on by an encounter with the technology? Or is this triggered by that particular encounter with the mysterious microbe circa 2018, whose plasmid count still remains a baffling mystery to me? The latter possibility is an exciting one. How many human beings can sit down and say "A bacteria eventually made me write out radio free gemini on an alter-net of the future"? Oh, and the 'gemlog' is named after a motel in control. 
+
+Sitting here and writing out all this on nano is at once both refreshing and nostalgic- a creative movement on something that really didn't exist until recently, but what I am doing on the new medium revolves around what I did so lovingly on a Thinkpad T400, around the time when core2duo was a bleeding edge tech. I can't believe people wondering if we really even need a 64bit operating system was a recent memory. Technology's certainly changed, and everyone not at the worship at the altar would be considered behind the times, obsolete. And yet, here we are, writing on a protocol that primarily revolves around reliable and rapid transimission of raw texts. What does that say about technology and us? 
+
+Writing out the template and gemlog generation in bash was the easy part. Some confusion here and there, but nothing a quick test and browsing the net can't solve. I'm coming to learn that programs tend to have structure, and the thinking behind the programs also reflect the structure, so the points of consternation that might haunt me at one point is something someone else experienced at other point. And of course, the web records everything. These problem-solving message boards - stackoverflow and the like - are essentially modern panopticons of knowledge. It's not a bad thing- I think! It's just fascinating that even knowledge can be surveilled under the best of intentions. 
+
+The hard part of starting up something like this - this gemini capsule and the gemlog - is the constant self-imposed suspicions of imposter syndrome. Even a quick, casual browsing through the exiting gemini-sphere reveals some... Entities, whose raw text and text-art pages stand out like a lighthouse of wit and depth of thought and experience. Understanding and control of the medium to the point that their pages come across as if they've been illuminated, simply based on raw texts propping up through terminal clients. How did they do it? Despite being copyable texts I have no idea how I would replicate it. It makes my half-hearted attempt at ASCII gothic look like a joke. Even outside the immediate technical proficiency, the quality of writing and their settings, the precision of thought - I really have nothing to offer against some of the obvious examples I see out there.         
+
+But then, what else could I do? The show must go on. And if I'm living, I must write. And think. And write more about the thoughts. 
+  
+  
+_________
+###CC-BY-SA 4.0
+  

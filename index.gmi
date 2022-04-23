@@ -1,0 +1,53 @@
+```
+   ____                                          _                   
+  / __ \                                        (_)                  
+ | |  | |   ___    ___    __ _   _ __   __   __  _    ___  __      __
+ | |  | |  / __|  / _ \  / _` | | '_ \  \ \ / / | |  / _ \ \ \ /\ / /
+ | |__| | | (__  |  __/ | (_| | | | | |  \ V /  | | |  __/  \ V  V / 
+  \____/   \___|  \___|  \__,_| |_| |_|   \_/   |_|  \___|   \_/\_/  
+                                                                     
+		  __  __           _            _ 
+		 |  \/  |         | |          | |
+		 | \  / |   ___   | |_    ___  | |
+		 | |\/| |  / _ \  | __|  / _ \ | |
+		 | |  | | | (_) | | |_  |  __/ | |
+		 |_|  |_|  \___/   \__|  \___| |_|
+                                  
+```	
+
+```
+ - - - ------------------------------------------------------- - - -
+       Those roadside motels all bleed together like a dream, 
+            same and not the same, anywhere and nowhere.
+  - - - - - --------------------------------------------- - - - - - 
+
+```
+		
+###Welcome
+
+...to my little corner on the gemini; this is a place for me to run away from prying eyes and write intently about nothing. Please scroll down to the Transmissions header below this page for updated list of gemlogs.
+
+If you have any comments, feel free to drop a note over at: 
+=> mailto:think.years@gmail.com
+
+
+At some point I'll end up writing about or mentioning any of the below things: 
+	
+*History of biology
+*Phylogenetics
+*Reviews on articles
+*Zines
+*Popculture kitch
+
+
+CC-BY-SA 4.0
+
+
+```
+  - - - - - --------------------------------------------- - - - - - 
+		      T R A N S M I S S I O N S
+ - - - ------------------------------------------------------- - - -
+
+```
+=> gemini://gmi.si3t.ch/echo/gemlog_radio-free_gemini.gmi 2021-07-18 Welcoming myself to gemini
+=> gemini://gmi.si3t.ch/echo/gemlog_coming_and_going.gmi 2022-04-23 to and fro

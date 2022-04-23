@@ -1,0 +1,25 @@
+# Coming and going from Gemini
+### to and fro
+### tags: life,gemini,writing
+### 2022-04-23
+  
+  
+I've been reading through some of the 'leaving gemini' type posts around the - geminisphere? - with some degree of bemusement. 
+
+You see, I've been suffering from what I'm only beginning to realize were serious panic attacks for most of my adult life - and one of its unfortunate effect had been a persistent state of paralysis when it came to filling in blank spaces in front of a desk. Which is a problem, since prior to this mysterious illness I've been making my living off writing, believe it or not. Unlike what seems to be a vast majority of the gemlogging population, my interests and abilities were defintely locked into the more humanities side of things like history articles, layman write up of science papers and that sort of stuff... Now I work at a night shift loading dock to pay the bills and support the nonprofit lab I'm running with my friend. 
+
+So, when someone like me - radically isolated from the usual gemlogging population through education, field of interest, maybe finances and perhaps even in cultural outlook - doesn't make any use of my capsule (very generously allotted through gemini://gmi.si3t.ch) and spends most of my time reading non-gemini hosted content (https/epub/whathaveyou), does that mean I've left gemini? Maybe it's another cultural difference I'm not quite catching on to, but the description 'leaving gemini' feels fundamentally odd, in that it speaks more about beliefs and attitude of the writer than the action itself. Now that I've written and posted this gemlog, have I returned to the gemini protocol? If I leave my capsule empty for another year in some panic streaken paralysis, would I have left gemini again?
+
+For my nontechnical self, gemini is reading ('nontechnical' is another odd thing to say - I have no issues banging out awk/bash scripts to assemble genomes, analyze them and figure out conserved protein domains among genes across kingdoms, but don't know the first thing about network tech, C/python/go, or how gemini as a protocol actually work. And yet within the culture of majority of people on gemini, I feel I'd be considered nontechnical). On a good day I'll sit down on a lounge chair, my laptop from 2008 hooked up to an outlet, fire up bombadillo and just read through whatever that catches my fancy on gmisub or spacewalk. I would read those gemlogs and little tidbits ranging from slice-of-life to something weirdly technical about perl, just like how I'd read my prized collection of old phage research tomes from 1920's, or some dusty history book from a bargain table, or some articles on biorxiv. There's always been a different air to things I find on gemini - almost as if there's something here that keeps people a little more open and honest about sharing what they really feel. They're less advertisements for personal brands, less copywritten. Visiting gemini is like reading an imprint from a boutique publisher, from back when publishing houses tended to maintain clear styles and focus across their label to cater to specific type of readers (or at least to cater to readers in a very specific type of mood). This very subtle but noticeable difference, I think, is part of what people call culture.      
+
+From the vantage point of a reader, someone saying they're going to leave gemini sounds like someone trying to leave Europa Editions or Graywolf Press. Perhaps you could pick up a book from P.R.H instead for your next read, but is there a need to commit to some finality in coming and going across different priting labels? We are still going to read as long as we live, after all. It is fundamental to the human experience. 
+
+I wonder where this perceived discrepancy is coming from. When people leave gemini, what did they perceive gemini as from the beginning? What would their ideal networked reading nook look like, or was it that gemini was never such a thing in their minds? 
+
+Could it be that some people in gemini were also caught up in the constant talk of disruption, and imagined gemini to be a replacement for some grand pillar of our modern society? It could be, but I'd wager a layer of technical protocol floating separately from thousands of years of human civilization might not be the way to go about it. And this pervasive hint of weird isolation, where changes and improvement in society must happen in a technical sphere, separate from all its artists, writers, philosophers and laypeople does concern me a bit about our contemporary times.     
+ 
+  
+  
+_________
+###CC-BY-SA 4.0
+  
