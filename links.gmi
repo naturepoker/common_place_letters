@@ -28,6 +28,9 @@ Caveat - this list includes gopher pages as well, since two of my main gemini br
 => gemini://transjovian.org Transjovian council wiki
 => gemini://republic.circumlunar.space:1965/zine/index.gmi Official zine of circumlunar space
 => gemini://medusae.space/ Curated list of gemini capsules
+=> gemini://kennedy.gemi.dev Kennedy gemini search
+=> gemini://tlgs.one Totally legit gemini search
+=> gemini://gemini.bortzmeyer.org:1965/software/lupa/stats.gmi Handy gemini-verse stats
 
 #### Gopher
 => gopher://colorfield.space/ Colorfield space, experimental public bbs/phlog on pi zero 
@@ -38,3 +41,5 @@ Caveat - this list includes gopher pages as well, since two of my main gemini br
 => gopher://rawtext.club/1/~cmccabe/pubnixhist/ Pubnix history
 => gopher://tilde.institute/ Tilde institue pubnix, phlogs
 => gopher://zaibatsu.circumlunar.space/ Zaibatsu circumlunar space host and phlogs
+=> gopher://gopher.viste.fr:70/1/ogup Observable gopher universe directory
+=> gopher://bitreich.org:70/1/lawn Gopher lawn
