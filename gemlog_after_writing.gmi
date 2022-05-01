@@ -1,0 +1,18 @@
+# After writing
+### Quick note after a hard night finishing up a paper
+### tags: musing,writing,life
+### 2022-05-01
+  
+  
+Sitting down with the gemposting script on my 15 years old clunker again. Two posts in a row without waiting for a whole year to pass between them, this must be some sort of record! Maybe I'm finally committing the completely casual nature of gemposting to muscle memory, so there's lesser pressure that might result in another round of writer's block to work through. 
+
+I've been sitting around on the lounge chair since about four in the morning, taking a breather from the 20 hour marathon to organize and wrap up the very first academic preprint in my life. Methods and Results&Discussion section is more or less done, and I just need to write the introduction, abstract and organize the reference once the pieces fall in together. I've already run some key parts of the methods from beginning to end, so it's pretty likely that what we have is, in fact, replicable. Despite the effort at meticulous record keeping (albeit in a text file I dragged everywhere with me- not ideal, but at the same time the simplest file format is the best one to record all the necessary of minutiae ranging from physical experiments to computer processing of data) there were some hair-raising moments when I thought I couldn't find the research data to prove some of our claims/steps described in the Methods. Looking for a more permanent and natural way to record my steps and methods is something to really think about going forward. Should I just completely embrace the open labnotebook model and just keep the 'universal text' file hosted on my github? It might make a lot of sense as I slowly try to integrate jupyter labnotes (I'm thinking combination of Julia and bash kernel) into my workflow. 
+
+The upcoming paper will be about a certain archaea isolated from a Permean salt deposit - possibly from the tail end of the Paleozoic era before or during the great dying. So about 252 million years ago at the earliest? Our lab - and by which I mean the amateur warehouse lab - is the first in the world to assemble and publish its genome. While the genome was one of the trickiest things I've ever had to figure out in my life - the particulars of the extremophile required us to figure out a whole new way of sequencing the organism - the real star of the party isn't even the genome. We made an observation of a unique feature in its genomic architecture, that could be the very first description of such a thing in archaea ever. If true (which is still an open question- we're merely positing a possibility in the paper) it would help us finally figure out whether this class of ancient buggers are actually as old as we think they are, or if they are mere subsurface ecosystem actors, or if they are (relatively) modern day contaminations. Contribution to solving one of the grand old problems of archaeal (paleo?) biology- possibly helping in designing a higher accuracy molecular clock for other people to use. Exciting stuff for a manual laborer with U.S. public high school education. 
+
+And here is another great benefit of the geminisphere - I'd never be able to post stuff like this in public on the general http internet. It's only in this somewhat quieter corner of the net that I can work up the courage to note stuff like this. 
+  
+  
+_________
+###CC-BY-SA 4.0
+  

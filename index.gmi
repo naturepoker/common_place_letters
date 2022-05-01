@@ -53,3 +53,4 @@ CC-BY-SA 4.0
 ```
 => gemini://gmi.si3t.ch/echo/gemlog_radio-free_gemini.gmi 2021-07-18 Welcoming myself to gemini
 => gemini://gmi.si3t.ch/echo/gemlog_coming_and_going.gmi 2022-04-23 to and fro
+=> gemini://gmi.si3t.ch/echo/gemlog_after_writing.gmi 2022-05-01 Quick note after a hard night finishing up a paper
