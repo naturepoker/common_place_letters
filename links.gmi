@@ -31,6 +31,7 @@ Caveat - this list includes gopher pages as well, since two of my main gemini br
 => gemini://kennedy.gemi.dev Kennedy gemini search
 => gemini://tlgs.one Totally legit gemini search
 => gemini://gemini.bortzmeyer.org:1965/software/lupa/stats.gmi Handy gemini-verse stats
+=> gemini://cities.yesterweb.org Gemini hosting and other capsules
 
 #### Gopher
 => gopher://colorfield.space/ Colorfield space, experimental public bbs/phlog on pi zero 
