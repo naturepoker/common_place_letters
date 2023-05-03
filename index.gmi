@@ -31,7 +31,7 @@ If you have any comments, feel free to drop a note over at:
 => mailto:think.years@gmail.com
 
 List of gemini and gopher links I've accrued over time:
-=> gemini://gmi.si3t.ch/echo/links.gmi Links 04/23/2022
+=> gemini://gmi.si3t.ch/echo/links.gmi Links 05/03/2022
 
 At some point I'll end up writing about or mentioning any of the below things: 
 	
@@ -39,7 +39,6 @@ At some point I'll end up writing about or mentioning any of the below things:
 *Phylogenetics
 *Reviews on articles
 *Zines
-*Popculture kitch
 
 
 CC-BY-SA 4.0
