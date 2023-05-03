@@ -1,6 +1,6 @@
 ### Gemini links
 ### tags: gemini,gopher,links
-### 2022-04-23
+### 2023-05-03
 
 Quick gemini links repo - meant for me to keep a consistent list of links for when I hop around between different machines, but maybe you'll find them useful too. 
 Caveat - this list includes gopher pages as well, since two of my main gemini browsers (castor and bombadillo) supports them.
