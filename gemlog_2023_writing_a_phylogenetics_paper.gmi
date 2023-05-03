@@ -1,0 +1,35 @@
+# 2023 update - writing a paper
+### 2023 update, and stuff about writing a paper
+### tags: writing,paper,research,biology,phylogenetics
+### 2023-05-03
+  
+  
+I've been spending some time catching up on gemini-verse, reading through built-up posts on old favorites along with new up and coming capsules. As usual the content generally veers toward tech-related side of life, but I don't think it's a bad thing as long as people are happy writing about things they love.   
+
+There's even a new (to me) aggregator that seems really promising:
+
+=>gemini://warmedal.se/~antenna/ Antenna
+
+It does recapitulate some content on my favorite aggregator - but again that's to be expected: 
+
+=>gemini://calcuode.com/gmisub-aggregate.gmi Gmisub
+
+It's really great to see my capsule still up and running without issues. Much love to gmi.si3t.ch people for letting me have a small place on the internet I can return to every once in a while.
+
+
+2023 had been strange. I can hardly believe we're almost through half of the year already, it feels like January was just last month. Unlike some of the previous years though, the sense of lost time is due to entirely personal reasons. I've had an interesting meeting with a certain professor back in February, who sort-of dared me to push a research preprint out by May 5th. Ostensibly (and I'm sure he is sincere with the offer) this is a type of screening process to be hired into his lab as a technician, but I'm not holding my breath on that one. Rather, I took the offer as an opportunity to push out a research report/letter of sorts I can use to communicate a question that's been bugging me since around mid-2019.
+
+My first foray to a truly interesting, longer form research was de-novo sequencing of Deinococcus radiophilus genome using in-house MinIon platform. And the most interesting part of the data gathered then was regarding replication methods of the host plasmids, and how their particular type of replication protein seems to show up almost universally across not just the genera, but through the entire phylum. Almost double the rate of the next highest percentage represented on a phylum level. 
+
+Looking into the why and how of the plasmid replication system took me to all sorts of different places, with key takeaway being realization of just how absolutely powerful the tree thinking is in understanding anything of microbiology, along with treatment of biology as a study of history rather than building of machines. If ever given the opportunity, phylogenetics and tree construction (or maybe network construction) as a historian of living genome is something I'd love to do until I die.
+
+Lots of new interesting research came by way after that - but I still haven't put together a convincing, single document narrative of what I found in the Deinococcus genome yet. Part of the reason was time, other part of the reason was I simply weren't good enough to truly prove my observation using, say, academic lingo of genome divergence and phylogenetics (and then there was my wildly optimistic initial expectation of the distance between some of the key genomes in the data, etc etc). 
+
+I do think my understanding of basic phylogenetic analysis has improved over the last couple of years though (I don't know about anyone else, but it's no mean feat to study these things and run a small lab as a warehouse/dock worker, har har). So I've been burning the midnight oil since February to present a meaningful report on inherited origin and propagation of RPA driven plasmid replication system across genera of Deinococcota... With implication that there's a common plasmid replication system that drives minichromosome level genomic compartments shared across microbes with habitats spanning antarctic tundras to sulfuric hot springs. If you knew about how unreliable these plasmid compartments can be (at least among common lab microbes like E. coli. A common method for 'curing' them of unwanted plasmid is to grow them at elevated temperatures - welp some Deinococcota members - of genus Thermus and others - live in hot springs, a testament to curious stability of their plasmids) this would prove to be a fascinating bit of observation. 
+
+Initial direction of the presentation and data gathering's more or less done now. I think I just need to generate some figures and it's finally writing time for the first draft... I likely won't meet preprint publication date of May 5th, but I do think I can get a draft out by Friday, and perhaps upload it to biorxiv by Monday. This wouldn't really be a full 'paper' on the topic, but at least I'll have something citable I can send out to other researchers to recruit comments and polish the study further.       
+  
+  
+_________
+###CC-BY-SA 4.0
+  
